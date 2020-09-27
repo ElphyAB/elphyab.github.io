@@ -1,4 +1,4 @@
-![alt text](https://www.elphy.se/wp-content/uploads/2017/01/Elphy8pxinch.png "Elphy Logo")
+![alt text](Elphy8pxinch.png "Elphy Logo")
 
 # Welcome to Elphy!
 
