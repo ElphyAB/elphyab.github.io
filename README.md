@@ -1,2 +1,2 @@
-# elphy.github.io
-Website for Elphy
+![alt text](Elphy8pxinch.png "Elphy logo")
+Embedded solutions
