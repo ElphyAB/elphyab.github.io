@@ -1,3 +1,10 @@
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
+
+title: Elphy
+description: Embedded Systems Experts
+
+# Optional
+# show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
+# google_analytics: [Your Google Analytics tracking ID]
