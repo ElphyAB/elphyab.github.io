@@ -6,7 +6,7 @@ Elphy is a company focusing on solving energy related problems using new technol
 ## Linked | List
 
 - -> [GitHub](https://github.com/samuelphy)
-- -> [Hackster instruction](https://www.hackster.io/samuelphy/energy-meter-logger-6a3468) | Energy Meter Logger
+- -> [Hackster](https://www.hackster.io/samuelphy/energy-meter-logger-6a3468) Energy Meter Logger project
 - -> [LinkedIn](https://www.linkedin.com/in/samuel-vestlin-6b72532)
 - -> [Instagram](https://www.instagram.com/elphy.ab/)
 
