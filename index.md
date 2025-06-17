@@ -1,6 +1,6 @@
 # Welcome to Elphy
 
-Elphy is a company focusing on solving energy related problems using new technology. Our competence comes from working with Embedded systems for +15 years and a general interest in Energy efficiency and Building conservation. Feel free to contact [us](mailto:info@elphy.se) if this made you interested!
+Elphy is a company focusing on solving energy related problems using new technology. Our competence comes from working with Embedded systems for +20 years and a general interest in Energy efficiency and Building conservation. Feel free to contact [us](mailto:info@elphy.se) if this made you interested!
 
 –--
 ## Linked | List
